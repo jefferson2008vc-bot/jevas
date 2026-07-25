@@ -1,0 +1,6 @@
+{
+  "name": "Construcciones JEVAS",
+  "description": "Página web corporativa para Construcciones JEVAS, expertos en estructuras metálicas, soldadura industrial y fabricación de alta precisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
